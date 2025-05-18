@@ -1,0 +1,15 @@
+{
+  "clientId": "bot_id",
+  "activity": {
+    "details": "here",
+    "state": "here",
+    "largeImageKey": "here",
+    "largeImageText": "here",
+    "smallImageKey": "here",
+    "smallImageText": "here",
+    "buttons": [
+      { "label": "here", "url": "here" },
+      { "label": "here", "url": "here" }
+    ]
+  }
+}
